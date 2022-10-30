@@ -1,12 +1,12 @@
-import pandas as pd
-from tqdm import tqdm
-import time
-from cachetools import cached, TTLCache
-import requests
-from bs4 import BeautifulSoup
-import numpy as np
-import datetime as d
-import selenium
+pandas
+tqdm
+time
+TTLCache
+requests
+BeautifulSoup
+numpy 
+datetime 
+selenium
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
